@@ -24,6 +24,11 @@ body {
     margin: 0;
 }
 
+.test {
+    /* test of VS code */
+    background: red;
+}
+
 /* 1. */
 .navigate {
     display: flex;
