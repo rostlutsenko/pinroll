@@ -7,8 +7,6 @@
 5. - works
 6. - footer
 
-
-
 */  
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
@@ -22,11 +20,6 @@ body {
 .text-center {
     text-align: center;
     margin: 0;
-}
-
-.test {
-    /* test of VS code */
-    background: red;
 }
 
 /* 1. */
