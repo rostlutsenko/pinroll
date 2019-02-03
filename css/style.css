@@ -19,7 +19,6 @@ body {
 
 .text-center {
     text-align: center;
-    margin: 0;
 }
 
 /* 1. - nav */
@@ -369,7 +368,11 @@ body {
 
 .sld {
     width: 100%;
-    background: #d8d8d8;
+    background: #cacaca;
+}
+
+.sld .text_header { 
+    margin: 4rem 0 0 0; 
 }
 
 .sld_holder {
@@ -439,6 +442,8 @@ body {
 
 .slide img {
     width: 100%;
+    user-select: none;
+    -moz-user-select: none;
 }
 
 .dots {
