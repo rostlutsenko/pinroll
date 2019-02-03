@@ -1,1 +1,5 @@
 /*test SCSS*/
+.sld {
+  width: 100%;
+  height: 600px;
+  background: red; }
